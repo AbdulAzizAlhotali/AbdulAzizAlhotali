@@ -26,7 +26,7 @@
 </a>
 <br><br>
 <a href="https://github.com/Abo3zh?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abo3zh&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=&bg_color=%200,4800ff,00f1ff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abo3zh&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=&bg_color=0,4800ff,00f1ff" />
 </a>
 <br>
 <br>

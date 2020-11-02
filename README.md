@@ -2,7 +2,7 @@
 **My name is AbdulAziz , i am from Saudi Arabia , A Website Developer , Learning Javascipt**
 
 
-**How to reach me? Social Networks:**
+**Social Networks:**
 
 <a href="https://discord.gg/q86RmhFY5m"><code><img alt="Abo3zh Youtube" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code></a>
 <a href="https://www.youtube.com/c/UCAyzLky2HOuvg3i3c8XJ0YQ?sub_confirmation=1"><code><img alt="Abo3zh YouTube" height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code></a>
@@ -26,7 +26,7 @@
 </a>
 <br><br>
 <a href="https://github.com/Abo3zh?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abo3zh&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abo3zh&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=&bg_color=%200,4800ff,00f1ff" />
 </a>
 <br>
 <br>

@@ -5,7 +5,7 @@
 **Social Networks:**
 
 <a href="https://discord.gg/q86RmhFY5m"><code><img alt="Abo3zh Youtube" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code></a>
-<a href="https://www.youtube.com/c/UCAyzLky2HOuvg3i3c8XJ0YQ?sub_confirmation=1"><code><img alt="Abo3zh YouTube" height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code></a>
+<a href="https://www.youtube.com/channel/UCAyzLky2HOuvg3i3c8XJ0YQ"><code><img alt="Abo3zh YouTube" height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code></a>
 <br>
 
 
